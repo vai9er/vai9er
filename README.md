@@ -25,7 +25,10 @@
     <tr>
       <td>
         <p>
-          CS @ UofT. Software Engineer @ Empyrean Medical Systems
+          CS @ UofT
+        </p>
+        <p>
+          SWE @ Empyrean Medical Systems
         </p>
       </td>
       <td>
