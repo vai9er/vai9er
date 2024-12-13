@@ -1,5 +1,4 @@
 ## Hi there 👋 My name is
-![image](https://github.com/user-attachments/assets/f60c32b0-7c34-4745-b00f-325fdc5d1a86)
 
 ![image](https://github.com/user-attachments/assets/d8af6d07-d7a8-4b45-9c6a-ab75ab56f299)
 
